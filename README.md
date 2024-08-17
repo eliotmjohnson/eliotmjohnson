@@ -1,20 +1,10 @@
-## Hi there 👋
+# Hello Developers! 👋
+### Welcome to my page!
 
-<!--
-**eliotmjohnson/eliotmjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my very first enterprise budget app!
+- 🤓 I’m currently learning Rust, Java, and Angular
+- ⚡ Fun fact: I'm a professional drummer!
 
-Here are some ideas to get you started:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliotmjohnson&show_icons=true&theme=transparent&hide=issues,prs&count_private=true&hide_rank=true)](https://github.com/eliotmjohnson)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliotmjohnson&show_icons=true&theme=transparent&hide=issues,prs&count_private=true&hide_rank=true)](https://github.com/eliotmjohnson/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliotmjohnson&size_weight=0.5&count_weight=0.5&theme=transparent&hide=css,html,svelte,slint,vue,procfile,blade&langs_count=6&layout=compact)](https://github.com/eliotmjohnson/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliotmjohnson&size_weight=0.5&count_weight=0.5&theme=transparent&hide=css,html,svelte,slint,vue,procfile,blade&langs_count=6&layout=compact)](https://github.com/eliotmjohnson?tab=repositories)
