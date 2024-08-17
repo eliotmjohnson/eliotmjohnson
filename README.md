@@ -1,7 +1,7 @@
 # Hello Developers! 👋
 ### Welcome to my page!
 
-- 🔭 I’m currently working on my very first enterprise budget app! https://github.com/eliotmjohnson/BudgetBros
+- 👨🏻‍💻 I’m currently working on my very first enterprise budget app! https://github.com/eliotmjohnson/BudgetBros
 - 🤓 I’m currently learning Rust, Java, and Angular
 - ⚡ Fun fact: I'm a professional drummer!
 
