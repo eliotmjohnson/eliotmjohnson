@@ -1,8 +1,8 @@
 # Hello Developers! 👋
 ### Welcome to my page!
 
-- 👨🏻‍💻 I’m currently working on my very first enterprise budget app! https://github.com/eliotmjohnson/BudgetBros
-- 🤓 I’m currently learning Rust, Java, and Angular
+- 👨🏻‍💻 I’m currently working on my very first enterprise budget app with Angular and Rust! https://github.com/eliotmjohnson/BudgetBros
+- 🤓 I’m currently learning Rust, and SwiftUI
 - ⚡ Fun fact: I'm a professional drummer!
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliotmjohnson&show_icons=true&theme=transparent&hide=issues,prs&count_private=true&hide_rank=true)](https://github.com/eliotmjohnson)
